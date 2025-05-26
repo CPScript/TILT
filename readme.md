@@ -87,5 +87,6 @@ TILT reframes time travel from a paradox-generating anomaly into a consistent se
 
 ---
 
-**Author:** \[Redacted for publication]
-**Inspired by:** My own thoughts
+> **Author:** \[CPScript]
+
+> **Inspired by:** My own thoughts
